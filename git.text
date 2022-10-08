@@ -1,0 +1,27 @@
+1. // first step: To check the version
+
+  git --version
+
+2. //Second step:To initilize the reposetery
+
+  git init
+
+3.// Thired step: To push all the files
+
+  git add .
+
+4.// Fourth step: To confirm the Changes
+
+  git commit -m "update all files"
+
+5.// Fifth step: To create the branch
+
+  git branch M -main
+
+6.// Sixth step: To add the file name,path
+
+  git remote add origin path_url(from git hub after creating the repo)
+
+7.// Seventh step: To push the final code to git
+
+  git push -u origin main
