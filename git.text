@@ -1,27 +1,43 @@
+Git Commands For Push(
 1. // first step: To check the version
 
   git --version
 
-2. //Second step:To initilize the reposetery
-
-  git init
-
-3.// Thired step: To push all the files
+2.// second step: To push all the files
 
   git add .
 
-4.// Fourth step: To confirm the Changes
+3.// thired step: write message that you conform to Changes
 
   git commit -m "update all files"
 
-5.// Fifth step: To create the branch
-
-  git branch M -main
-
-6.// Sixth step: To add the file name,path
-
-  git remote add origin path_url(from git hub after creating the repo)
-
-7.// Seventh step: To push the final code to git
+4.// fourth step: To push the final code to git
 
   git push origin main
+
+)
+
+
+
+//
+
+
+
+Git Another Commands(
+
+1. //Second step:To initilize the reposetery
+
+  git init
+  
+2.// second step: To create the branch
+
+  git branch M -main
+  
+3.// thired step: To add the file name,path
+
+  git remote add origin path_url(from git hub after creating the repo)
+  
+)
+
+
+
