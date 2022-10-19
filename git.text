@@ -24,4 +24,4 @@
 
 7.// Seventh step: To push the final code to git
 
-  git push -u origin main
+  git push origin main
