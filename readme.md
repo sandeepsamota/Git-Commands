@@ -1,5 +1,7 @@
 Git Commands
 ============
+git fetch origin : update all the changes from all side on vs code .
+============
 
 ### Getting & Creating Projects
 
